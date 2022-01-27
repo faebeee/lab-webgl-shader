@@ -13,7 +13,7 @@
     "dependencies": {
         "@faebeee/lab-utils": "^1.1.0",
         "lite-server": "^2.4.0",
-        "three": "^0.107.0"
+        "three": "^0.137.0"
     },
     "devDependencies": {
         "@babel/core": "^7.4.5",
